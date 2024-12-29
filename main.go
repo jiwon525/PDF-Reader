@@ -1,10 +1,10 @@
 package main
 
 import (
+	"PDF-Reader/exporter"
+	"PDF-Reader/parser"
 	"log"
 	"net/http"
-	"pdf-to-excel/exporter"
-	"pdf-to-excel/parser"
 
 	"github.com/gin-gonic/gin"
 )

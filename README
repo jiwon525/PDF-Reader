@@ -1,0 +1,6 @@
+###This application is to enhance work experience.
+
+At my current workplace, I need to manually key in the details seen in certain pdf files.
+I would like to reduce the human error in this process by creating an automation process to extract out the details in a certain format.
+
+Using : Golang, REST APIs 
